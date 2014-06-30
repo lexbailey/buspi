@@ -3,4 +3,5 @@ buspi
 
 Raspberry pi live bus time display
 
-More details soon...
+For a more detailed look, click this link...
+http://bitofahack.com/post/1404158486
